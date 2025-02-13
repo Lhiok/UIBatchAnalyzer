@@ -3,3 +3,5 @@
 * 未考虑<b>order</b>和<b>layer</b>影响
 * 嵌套Canvas处理过于复杂，不同Canvas批次信息独立计算
 * 由于无法获取_texID，批次顺序可能与实际顺序存在差异
+![alt text](image.png)
+![alt text](image-1.png)
